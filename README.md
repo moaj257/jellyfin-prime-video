@@ -1,6 +1,6 @@
 # Cineverse Edge: A Jellyfin-Powered Streaming Experience
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/moaj257/jellyfin-prime-video)
 
 Cineverse Edge is a visually stunning, minimalist web application designed to replicate the premium experience of streaming services like Amazon Prime Video, but powered by a user's own Jellyfin server. It's built as a 'lean-back' experience, optimized for large screens and keyboard/remote navigation, making it perfect for use on a TV browser or a computer connected to a TV. The application will feature a dark-themed, poster-driven interface with smooth transitions and clear focus states. Users will connect to their Jellyfin instance to browse their movie and TV show libraries, view detailed metadata, and stream content directly in the browser.
 
@@ -95,7 +95,7 @@ This application is designed for easy deployment to Cloudflare Pages.
 
 Alternatively, you can connect your GitHub repository to Cloudflare Pages for automatic deployments on every push.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/moaj257/jellyfin-prime-video)
 
 ## Project Roadmap
 
